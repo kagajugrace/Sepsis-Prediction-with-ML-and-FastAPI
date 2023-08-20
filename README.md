@@ -79,7 +79,7 @@ http://127.0.0.1:8000/docs
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP6 | Machine Learning API using FastAPI| [Best article of the world](https://medium.com/@kagajugrace/sentiment-analysis-with-natural-language-processing-using-hugging-face-6dcf6442725e) | [Best app of the world](/) |
+| LP6 | Machine Learning API using FastAPI| [Best article of the world](https://medium.com/@kagajugrace/classification-predicting-sepsis-with-machine-learning-and-fastapi-9f2a013ecb48) | [Best app of the world](/) |
 
 
 ## Resources
